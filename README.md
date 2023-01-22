@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Jeffrey Watson. I'm a future data scientist looking to get a start a new career. I enjoy working with Python and SQL, and I occasionally dabble in HTML and CSS.
+My name is Jeffrey Watson. I'm a future data scientist looking to get a start in new career. I'm current enrolled in the Bloom Institute of Technology's Data Scientist program. I enjoy working with Python and SQL, and I occasionally dabble in HTML and CSS.
 <!--
 **jdwatson08/jdwatson08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
