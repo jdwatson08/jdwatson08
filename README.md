@@ -1,4 +1,3 @@
-<body bgcolor = “LightSkyBlue”>
 ## About Me
 
 Hi there! 👋 I'm Jeffrey Watson, a passionate Data Scientist from North Carolina. I'm deeply enthusiastic about technology and always eager to learn and collaborate on exciting projects. I love programming and problem solving. I recently attended a bootcamp at Bloom Institute of Technology. Here's a bit more about me:
