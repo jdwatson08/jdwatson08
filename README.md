@@ -6,7 +6,7 @@ Hi there! 👋 I'm Jeffrey Watson, a passionate Data Scientist from North Caroli
 
 - **Programming Languages:** C++, Java, Python
 - **Web Development:** HTML, CSS
-- **Data Science:** Pandas, NumPy, Scikit-Learn,
+- **Data Science:** Pandas, NumPy, Scikit-Learn
 - **Databases:** SQL, MongoDB
 - **Version Control:** Git, GitHub
 
